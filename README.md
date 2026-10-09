@@ -78,7 +78,7 @@ I'm always happy to chat about AI, research or robots, so don't hesitate to reac
 
 <div align="center">
 
-## 🍀 Oi, eu sou a Juliana
+## 🍀 Oi, eu sou Juliana
 
 **Doutoranda em Ciência da Computação · Aprendizado Federado · Visão Computacional · Deep Learning**  
 📍 Lyon, França &nbsp;·&nbsp; 🇧🇷 → 🇫🇷
