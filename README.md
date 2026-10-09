@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=1200&color=D4869C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Juliana+%F0%9F%8C%B7;AI+researcher+%26+engineer;I+teach+machines+to+learn+%F0%9F%A4%96%E2%98%95" alt="Hi, I'm Juliana" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=1200&color=D4869C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Juliana+%F0%9F%8D%80;AI+researcher+%26+engineer;I+teach+machines+to+learn+%F0%9F%A4%96%E2%98%95" alt="Hi, I'm Juliana" />
 
 **Computer Science PhD candidate · Federated Learning · Computer Vision · Deep Learning**  
 📍 Lyon, France &nbsp;·&nbsp; 🇧🇷 → 🇫🇷
@@ -37,8 +37,16 @@ Portuguese (native) · French (advanced) · English (advanced)
 
 ### 📚 Publications
 
-- **Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients** — *FLTA 2024* · [read it](https://hal.science/hal-04712790)
-- **Fourier ptychography microscopy with integrated positional misalignment correction** — *ICIP 2024* · [read it](https://hal.science/hal-04666612)
+**🔗 Federated learning**
+
+- **FedWidthKD: Federated Data-Free KD for Width-Heterogeneous DS-CNNs** — *FLTA 2026, Paris* · [read it](https://hal.science/hal-05767455)
+- **Device and Data Heterogeneous Split Federated Learning** — *PAISS Summer School 2025, Grenoble, poster* · [read it](https://hal.science/hal-05776160)
+- **Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients** — *FLTA 2024, Valencia* · [read it](https://hal.science/hal-04712790)
+
+**🔬 Computational microscopy**
+
+- **Fourier ptychography microscopy with integrated positional misalignment correction** — *IEEE ICIP 2024, Abu Dhabi* · [read it](https://hal.science/hal-04666612)
+- **Image reconstruction & calibration strategies for Fourier ptychographic microscopy – a brief review** — *IEEE ROMA 2022, Malacca* · [read it](https://hal.science/hal-03931700)
 - **Neural networks for Fourier ptychography microscopy and application to malaria** — *JDSE 2021, poster* · [read it](https://hal.science/hal-04326622)
 
 ### 🧭 My path so far
@@ -70,7 +78,7 @@ I'm always happy to chat about AI, research or robots, so don't hesitate to reac
 
 <div align="center">
 
-## 🌷 Oi, eu sou a Juliana
+## 🍀 Oi, eu sou a Juliana
 
 **Doutoranda em Ciência da Computação · Aprendizado Federado · Visão Computacional · Deep Learning**  
 📍 Lyon, França &nbsp;·&nbsp; 🇧🇷 → 🇫🇷
@@ -103,8 +111,16 @@ Português (nativo) · Francês (avançado) · Inglês (avançado)
 
 ### 📚 Publicações
 
-- **Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients** — *FLTA 2024* · [ler](https://hal.science/hal-04712790)
-- **Fourier ptychography microscopy with integrated positional misalignment correction** — *ICIP 2024* · [ler](https://hal.science/hal-04666612)
+**🔗 Aprendizado federado**
+
+- **FedWidthKD: Federated Data-Free KD for Width-Heterogeneous DS-CNNs** — *FLTA 2026, Paris* · [ler](https://hal.science/hal-05767455)
+- **Device and Data Heterogeneous Split Federated Learning** — *PAISS Summer School 2025, Grenoble, pôster* · [ler](https://hal.science/hal-05776160)
+- **Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients** — *FLTA 2024, Valencia* · [ler](https://hal.science/hal-04712790)
+
+**🔬 Microscopia computacional**
+
+- **Fourier ptychography microscopy with integrated positional misalignment correction** — *IEEE ICIP 2024, Abu Dhabi* · [ler](https://hal.science/hal-04666612)
+- **Image reconstruction & calibration strategies for Fourier ptychographic microscopy – a brief review** — *IEEE ROMA 2022, Malacca* · [ler](https://hal.science/hal-03931700)
 - **Neural networks for Fourier ptychography microscopy and application to malaria** — *JDSE 2021, pôster* · [ler](https://hal.science/hal-04326622)
 
 ### 🧭 Meu caminho até aqui
