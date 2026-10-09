@@ -1,6 +1,6 @@
-<div align="center">
+<div align="right">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=1200&color=D4869C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Juliana+%F0%9F%8D%80;PhD+candidate+in+Computer+Science;Federated+Learning+%C2%B7+Computer+Vision+%C2%B7+Robotics" alt="Hi, I'm Juliana" />
+<img src="typing.svg" alt="Hi, I'm Juliana" width="720" />
 
 **Computer Science PhD candidate · Federated Learning · Computer Vision · Deep Learning**  
 📍 Lyon, France &nbsp;·&nbsp; 🇧🇷 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png" height="14" alt="Pernambuco" /> → 🇫🇷
