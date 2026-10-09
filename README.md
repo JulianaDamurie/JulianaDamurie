@@ -1,74 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=1200&color=D4869C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Juliana+%F0%9F%8D%80;AI+researcher+%26+engineer;I+teach+machines+to+learn+%F0%9F%A4%96%E2%98%95" alt="Hi, I'm Juliana" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=1200&color=D4869C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Juliana+%F0%9F%8D%80;PhD+candidate+in+Computer+Science;Federated+Learning+%C2%B7+Computer+Vision+%C2%B7+Robotics" alt="Hi, I'm Juliana" />
 
 **Computer Science PhD candidate · Federated Learning · Computer Vision · Deep Learning**  
-📍 Lyon, France &nbsp;·&nbsp; 🇧🇷 → 🇫🇷
+📍 Lyon, France &nbsp;·&nbsp; 🇧🇷 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png" height="14" alt="Pernambuco" /> → 🇫🇷
 
-🇺🇸 English · 🇧🇷 [Português](#-oi-eu-sou-a-juliana)
+🇺🇸 English · 🇧🇷 [Português](#oi-eu-sou-a-juliana-)
 
 </div>
 
----
+### About me
 
-### ☕ A little about me
+I'm Juliana Damurie, from Pernambuco, Brazil, and I'm a PhD student in France. My defense is planned for December 2026, so I'm almost there!
 
-I'm Juliana, a Brazilian computer engineer finishing my PhD in France (defense planned for **December 2026**). My research is on **federated learning** — training deep learning models across many devices without sharing their data — at LIRIS (INSA Lyon) and Laboratoire Hubert Curien (Télécom Saint-Étienne).
+I graduated in Computer Engineering at UFPE, at the Centro de Informática (CIn), one of the reference computer science departments in Brazil. I also did an exchange in France for the TRIED Master 2 (Institut Polytechnique de Paris).
 
-Before that, I worked on **neural networks for computational microscopy** (with an application to malaria diagnosis) at Télécom SudParis, built web products at VTEX, and started it all building **robot soccer teams** at RobôCIn 🤖⚽.
+I started doing research back in high school, with science projects and developing methodologies. At university I joined RobôCIn, the robotics group, where I took part in several competitions and worked on the hardware of our soccer-playing robots. For my undergraduate thesis I worked on reinforcement learning, studying how time affects the choices of an AI agent.
 
-What drives me is making a real impact on people's lives through research and development. 🌱
+In France, during my master's internship, I worked on Fourier ptychography microscopy, a particular way of acquiring microscopic images that also recovers phase information. In my PhD, my topic is federated learning, with the goal of including resource-constrained devices in the training.
 
-### 🗣️ Languages
+I also worked at VTEX as a front-end software engineer, where I developed the CMS.
 
-Portuguese (native) · French (advanced) · English (advanced)
+### Skills
 
-### 🧺 My toolbox
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,linux,git,react,graphql&theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, C++, Linux, Git, React, GraphQL" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,linux,git,react,graphql&theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, C++, Linux, Git, React, GraphQL" />
-</p>
+Computer vision, federated learning, neural networks, reinforcement learning, robotics and 3D printing.  
+Also Keras, NumPy, SciPy, SQL and TypeScript.
 
-🧠 **Expertise:** Computer Vision · Federated Learning · Neural Networks · Robotics 🤖 · 3D Printing 🖨️
+I love discovering new tools and I'm always eager to learn.
 
-🔧 **Also:** Keras · NumPy · SciPy · SQL · TypeScript
+Languages: Portuguese (native), French and English.
 
-*I love discovering new tools and I'm always eager to learn something new.* ✨
+### Publications
 
-### 📚 Publications
+Federated learning
+- [FedWidthKD: Federated Data-Free KD for Width-Heterogeneous DS-CNNs](https://hal.science/hal-05767455) (FLTA 2026, Paris)
+- [Device and Data Heterogeneous Split Federated Learning](https://hal.science/hal-05776160) (PAISS Summer School 2025, Grenoble, poster)
+- [Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients](https://hal.science/hal-04712790) (FLTA 2024, Valencia)
 
-**🔗 Federated learning**
+Fourier ptychography microscopy
+- [Fourier ptychography microscopy with integrated positional misalignment correction](https://hal.science/hal-04666612) (IEEE ICIP 2024, Abu Dhabi)
+- [Image reconstruction & calibration strategies for Fourier ptychographic microscopy: a brief review](https://hal.science/hal-03931700) (IEEE ROMA 2022, Malacca)
+- [Neural networks for Fourier ptychography microscopy and application to malaria](https://hal.science/hal-04326622) (JDSE 2021, poster)
 
-- **FedWidthKD: Federated Data-Free KD for Width-Heterogeneous DS-CNNs** — *FLTA 2026, Paris* · [read it](https://hal.science/hal-05767455)
-- **Device and Data Heterogeneous Split Federated Learning** — *PAISS Summer School 2025, Grenoble, poster* · [read it](https://hal.science/hal-05776160)
-- **Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients** — *FLTA 2024, Valencia* · [read it](https://hal.science/hal-04712790)
+### Awards
 
-**🔬 Computational microscopy**
-
-- **Fourier ptychography microscopy with integrated positional misalignment correction** — *IEEE ICIP 2024, Abu Dhabi* · [read it](https://hal.science/hal-04666612)
-- **Image reconstruction & calibration strategies for Fourier ptychographic microscopy – a brief review** — *IEEE ROMA 2022, Malacca* · [read it](https://hal.science/hal-03931700)
-- **Neural networks for Fourier ptychography microscopy and application to malaria** — *JDSE 2021, poster* · [read it](https://hal.science/hal-04326622)
-
-### 🧭 My path so far
-
-| When | What | Where |
-|---|---|---|
-| 2023 – 2026 | 🎓 PhD researcher — Federated Learning | LIRIS (INSA Lyon) & Lab. Hubert Curien |
-| 2022 | 🔬 Research engineer — ML for computational imaging | Télécom SudParis |
-| 2021 – 2022 | 💻 Software engineer — React, GraphQL, TypeScript | VTEX |
-| 2020 | 🧫 Data science intern — CNNs for malaria microscopy | Télécom SudParis |
-| 2017 – 2019 | 🤖 Robotics researcher — embedded systems & AI | RobôCIn (UFPE) |
-
-### 🏆 Little trophies
-
-🥉 Latin American & Brazilian Robotics Competition, Very Small Size Soccer (2018) · 🥉 IRON CUP RoboCore (2019) · 🥈 NeoEnergia Hackathon (2019)
+- 3rd place, Latin American & Brazilian Robotics Competition, Very Small Size Soccer (2018)
+- 3rd place, IRON CUP RoboCore, Very Small Size Soccer (2019)
+- 2nd place, NeoEnergia Hackathon (2019)
 
 ### 💌 Let's talk
 
-I'm always happy to chat about AI, research or robots, so don't hesitate to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-julianadamurie-8FB8DE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianadamurie)
-[![Email](https://img.shields.io/badge/Email-say_hi!-D4869C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianandamurie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-julianadamurie-8FB8DE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianadamurie)
+[![Email](https://img.shields.io/badge/Email-julianandamurie@gmail.com-D4869C?style=flat&logo=gmail&logoColor=white)](mailto:julianandamurie@gmail.com)
 
 <br/>
 
@@ -76,70 +61,51 @@ I'm always happy to chat about AI, research or robots, so don't hesitate to reac
 
 <br/>
 
-<div align="center">
-
-## 🍀 Oi, eu sou Juliana
+### Oi, eu sou a Juliana 🍀
 
 **Doutoranda em Ciência da Computação · Aprendizado Federado · Visão Computacional · Deep Learning**  
-📍 Lyon, França &nbsp;·&nbsp; 🇧🇷 → 🇫🇷
+📍 Lyon, França &nbsp;·&nbsp; 🇧🇷 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png" height="14" alt="Pernambuco" /> → 🇫🇷
 
-</div>
+Sou Juliana Damurie, brasileira e pernambucana, estudante de doutorado na França. Minha defesa está prevista para dezembro de 2026, então já está quase acabando!
 
-### ☕ Um pouco sobre mim
+Sou formada em Engenharia da Computação pela UFPE, no Centro de Informática (CIn), departamento de referência na área de computação no Brasil. Também fiz intercâmbio na França no Master 2 TRIED (Institut Polytechnique de Paris).
 
-Sou a Juliana, engenheira da computação brasileira terminando meu doutorado na França (defesa prevista para **dezembro de 2026**). Minha pesquisa é em **aprendizado federado** — treinar modelos de deep learning em vários dispositivos sem compartilhar os dados deles — no LIRIS (INSA Lyon) e no Laboratoire Hubert Curien (Télécom Saint-Étienne).
+Comecei na pesquisa ainda no ensino médio, com projetos científicos e desenvolvimento de metodologias. Na universidade entrei no grupo de robótica RobôCIn, onde participei de várias competições e do desenvolvimento do hardware dos nossos robôs que jogam futebol. No meu trabalho de graduação, fiz uma pesquisa em reinforcement learning sobre o impacto do tempo nas escolhas de um agente de IA.
 
-Antes disso, trabalhei com **redes neurais para microscopia computacional** (com aplicação ao diagnóstico de malária) na Télécom SudParis, desenvolvi produtos web na VTEX e comecei tudo construindo **times de futebol de robôs** no RobôCIn 🤖⚽.
+Na França, no meu estágio de mestrado, trabalhei com microscopia por ptychografia de Fourier, uma forma particular de adquirir imagens microscópicas que também obtém a informação de fase. No doutorado, minha temática é o aprendizado federado, com o objetivo de incluir dispositivos com restrições de recursos no treinamento.
 
-O que me move é impactar a vida das pessoas por meio da pesquisa e do desenvolvimento. 🌱
+Também trabalhei na VTEX como engenheira de software front-end, onde desenvolvi o CMS.
 
-### 🗣️ Idiomas
+### Habilidades
 
-Português (nativo) · Francês (avançado) · Inglês (avançado)
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,linux,git,react,graphql&theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, C++, Linux, Git, React, GraphQL" />
 
-### 🧺 Minha caixa de ferramentas
+Visão computacional, aprendizado federado, redes neurais, reinforcement learning, robótica e impressão 3D.  
+Também Keras, NumPy, SciPy, SQL e TypeScript.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,cpp,linux,git,react,graphql&theme=light" alt="Python, PyTorch, TensorFlow, scikit-learn, C++, Linux, Git, React, GraphQL" />
-</p>
+Adoro descobrir novas ferramentas e estou sempre disposta a aprender.
 
-🧠 **Especialidades:** Visão Computacional · Aprendizado Federado · Redes Neurais · Robótica 🤖 · Impressão 3D 🖨️
+Idiomas: português (nativo), francês e inglês.
 
-🔧 **Também:** Keras · NumPy · SciPy · SQL · TypeScript
+### Publicações
 
-*Adoro descobrir novas ferramentas e estou sempre disposta a aprender.* ✨
+Aprendizado federado
+- [FedWidthKD: Federated Data-Free KD for Width-Heterogeneous DS-CNNs](https://hal.science/hal-05767455) (FLTA 2026, Paris)
+- [Device and Data Heterogeneous Split Federated Learning](https://hal.science/hal-05776160) (PAISS Summer School 2025, Grenoble, pôster)
+- [Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients](https://hal.science/hal-04712790) (FLTA 2024, Valência)
 
-### 📚 Publicações
+Microscopia por ptychografia de Fourier
+- [Fourier ptychography microscopy with integrated positional misalignment correction](https://hal.science/hal-04666612) (IEEE ICIP 2024, Abu Dhabi)
+- [Image reconstruction & calibration strategies for Fourier ptychographic microscopy: a brief review](https://hal.science/hal-03931700) (IEEE ROMA 2022, Malaca)
+- [Neural networks for Fourier ptychography microscopy and application to malaria](https://hal.science/hal-04326622) (JDSE 2021, pôster)
 
-**🔗 Aprendizado federado**
+### Prêmios
 
-- **FedWidthKD: Federated Data-Free KD for Width-Heterogeneous DS-CNNs** — *FLTA 2026, Paris* · [ler](https://hal.science/hal-05767455)
-- **Device and Data Heterogeneous Split Federated Learning** — *PAISS Summer School 2025, Grenoble, pôster* · [ler](https://hal.science/hal-05776160)
-- **Heterogeneous SplitFed: Federated Learning with Trainable and Untrainable Clients** — *FLTA 2024, Valencia* · [ler](https://hal.science/hal-04712790)
-
-**🔬 Microscopia computacional**
-
-- **Fourier ptychography microscopy with integrated positional misalignment correction** — *IEEE ICIP 2024, Abu Dhabi* · [ler](https://hal.science/hal-04666612)
-- **Image reconstruction & calibration strategies for Fourier ptychographic microscopy – a brief review** — *IEEE ROMA 2022, Malacca* · [ler](https://hal.science/hal-03931700)
-- **Neural networks for Fourier ptychography microscopy and application to malaria** — *JDSE 2021, pôster* · [ler](https://hal.science/hal-04326622)
-
-### 🧭 Meu caminho até aqui
-
-| Quando | O quê | Onde |
-|---|---|---|
-| 2023 – 2026 | 🎓 Doutoranda — Aprendizado Federado | LIRIS (INSA Lyon) & Lab. Hubert Curien |
-| 2022 | 🔬 Engenheira de pesquisa — ML para imagem computacional | Télécom SudParis |
-| 2021 – 2022 | 💻 Engenheira de software — React, GraphQL, TypeScript | VTEX |
-| 2020 | 🧫 Estagiária de data science — CNNs para microscopia de malária | Télécom SudParis |
-| 2017 – 2019 | 🤖 Pesquisadora em robótica — sistemas embarcados e IA | RobôCIn (UFPE) |
-
-### 🏆 Pequenos troféus
-
-🥉 Latin American & Brazilian Robotics Competition, Very Small Size Soccer (2018) · 🥉 IRON CUP RoboCore (2019) · 🥈 Hackathon NeoEnergia (2019)
+- 3º lugar, Latin American & Brazilian Robotics Competition, Very Small Size Soccer (2018)
+- 3º lugar, IRON CUP RoboCore, Very Small Size Soccer (2019)
+- 2º lugar, Hackathon NeoEnergia (2019)
 
 ### 💌 Vamos conversar
 
-Adoro conversar sobre IA, pesquisa ou robôs, então fique à vontade para me chamar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-julianadamurie-8FB8DE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianadamurie)
-[![Email](https://img.shields.io/badge/Email-diga_oi!-D4869C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianandamurie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-julianadamurie-8FB8DE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianadamurie)
+[![Email](https://img.shields.io/badge/Email-julianandamurie@gmail.com-D4869C?style=flat&logo=gmail&logoColor=white)](mailto:julianandamurie@gmail.com)
