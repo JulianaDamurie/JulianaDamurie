@@ -41,7 +41,6 @@ Federated learning
 
 Fourier ptychography microscopy
 - [Fourier ptychography microscopy with integrated positional misalignment correction](https://hal.science/hal-04666612) (IEEE ICIP 2024, Abu Dhabi)
-- [Image reconstruction & calibration strategies for Fourier ptychographic microscopy: a brief review](https://hal.science/hal-03931700) (IEEE ROMA 2022, Malacca)
 - [Neural networks for Fourier ptychography microscopy and application to malaria](https://hal.science/hal-04326622) (JDSE 2021, poster)
 
 ### Awards
